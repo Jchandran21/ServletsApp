@@ -1,0 +1,93 @@
+2024-02-07- T -12:21:11.623 [http-nio-8080-exec-4] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -12:21:11.659 [http-nio-8080-exec-4] INFO  com.jayacha.CreateUser - New Account for Jayachandran P is created
+2024-02-07- T -12:21:14.053 [http-nio-8080-exec-6] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -12:21:26.602 [http-nio-8080-exec-1] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -12:23:05.699 [http-nio-8080-exec-4] INFO  com.jayacha.DbCommon - New Connection is created
+2024-02-07- T -12:23:05.702 [http-nio-8080-exec-4] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -12:23:05.715 [http-nio-8080-exec-4] INFO  com.jayacha.Validate - The User Jayacha has logged-in
+2024-02-07- T -12:53:05.024 [http-nio-8080-exec-6] INFO  com.jayacha.DbCommon - New Connection is created
+2024-02-07- T -12:53:05.027 [http-nio-8080-exec-6] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -12:53:05.038 [http-nio-8080-exec-6] INFO  com.jayacha.Validate - The User Jayacha has logged-in
+2024-02-07- T -12:53:10.127 [http-nio-8080-exec-8] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -12:53:19.452 [http-nio-8080-exec-1] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -12:53:24.843 [http-nio-8080-exec-3] INFO  com.jayacha.Logout - User - Jayacha has logged out
+2024-02-07- T -13:19:46.226 [http-nio-8080-exec-3] INFO  com.jayacha.DbCommon - New Connection is created
+2024-02-07- T -13:19:46.229 [http-nio-8080-exec-3] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:19:46.241 [http-nio-8080-exec-3] INFO  com.jayacha.Validate - The User Jayacha has logged-in
+2024-02-07- T -13:20:37.554 [http-nio-8080-exec-4] INFO  com.jayacha.DbCommon - New Connection is created
+2024-02-07- T -13:20:37.556 [http-nio-8080-exec-4] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:20:37.569 [http-nio-8080-exec-4] INFO  com.jayacha.Validate - The User Jayacha has logged-in
+2024-02-07- T -13:20:43.321 [http-nio-8080-exec-8] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:20:58.236 [http-nio-8080-exec-2] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:20:58.239 [http-nio-8080-exec-2] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:20:58.252 [http-nio-8080-exec-2] INFO  com.jayacha.DeleteUser - User with the id - 12 has been deleted
+2024-02-07- T -13:22:55.676 [http-nio-8080-exec-6] INFO  com.jayacha.DbCommon - New Connection is created
+2024-02-07- T -13:22:55.679 [http-nio-8080-exec-6] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:22:55.710 [http-nio-8080-exec-6] INFO  com.jayacha.CreateUser - New Account for Jayachandran P is created
+2024-02-07- T -13:22:59.167 [http-nio-8080-exec-10] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:23:10.006 [http-nio-8080-exec-3] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:23:10.008 [http-nio-8080-exec-3] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:23:10.020 [http-nio-8080-exec-3] INFO  com.jayacha.DeleteUser - User with the id - 13 has been deleted
+2024-02-07- T -13:26:43.059 [http-nio-8080-exec-4] INFO  com.jayacha.DbCommon - New Connection is created
+2024-02-07- T -13:26:43.062 [http-nio-8080-exec-4] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:26:43.092 [http-nio-8080-exec-4] INFO  com.jayacha.CreateUser - New Account for Jayachandran P is created
+2024-02-07- T -13:26:52.853 [http-nio-8080-exec-8] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:26:52.860 [http-nio-8080-exec-8] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:26:52.877 [http-nio-8080-exec-8] INFO  com.jayacha.DeleteUser - User with the id - 1 has been deleted
+2024-02-07- T -13:30:48.189 [http-nio-8080-exec-5] INFO  com.jayacha.DbCommon - New Connection is created
+2024-02-07- T -13:30:48.192 [http-nio-8080-exec-5] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:30:48.226 [http-nio-8080-exec-5] INFO  com.jayacha.CreateUser - New Account for Jayachandran P is created
+2024-02-07- T -13:30:56.365 [http-nio-8080-exec-9] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:30:56.375 [http-nio-8080-exec-9] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:30:56.396 [http-nio-8080-exec-9] INFO  com.jayacha.DeleteUser - User with the id - 2 has been deleted
+2024-02-07- T -13:32:51.402 [http-nio-8080-exec-5] INFO  com.jayacha.DbCommon - New Connection is created
+2024-02-07- T -13:32:51.406 [http-nio-8080-exec-5] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:32:51.436 [http-nio-8080-exec-5] INFO  com.jayacha.CreateUser - New Account for Jayachandran P is created
+2024-02-07- T -13:32:58.405 [http-nio-8080-exec-8] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:32:58.411 [http-nio-8080-exec-8] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:32:58.431 [http-nio-8080-exec-8] INFO  com.jayacha.DeleteUser - User with the id - 1 has been deleted
+2024-02-07- T -13:32:58.434 [http-nio-8080-exec-8] INFO  com.jayacha.Logout - User - Jayacha has logged out
+2024-02-07- T -13:32:58.434 [http-nio-8080-exec-8] ERROR com.jayacha.DeleteUser - An Exception is thrown - Cannot call sendRedirect() after the response has been committed
+2024-02-07- T -13:34:15.786 [http-nio-8080-exec-2] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:34:15.799 [http-nio-8080-exec-2] INFO  com.jayacha.CreateUser - New Account for Jayachandran P is created
+2024-02-07- T -13:34:17.448 [http-nio-8080-exec-3] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:34:24.726 [http-nio-8080-exec-6] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:34:24.727 [http-nio-8080-exec-6] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:34:24.746 [http-nio-8080-exec-6] INFO  com.jayacha.DeleteUser - User with the id - 2 has been deleted
+2024-02-07- T -13:34:24.747 [http-nio-8080-exec-6] INFO  com.jayacha.Logout - User - Jayacha has logged out
+2024-02-07- T -13:34:24.747 [http-nio-8080-exec-6] ERROR com.jayacha.DeleteUser - An Exception is thrown - Cannot call sendRedirect() after the response has been committed
+2024-02-07- T -13:36:57.451 [http-nio-8080-exec-2] INFO  com.jayacha.DbCommon - New Connection is created
+2024-02-07- T -13:36:57.455 [http-nio-8080-exec-2] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:36:57.467 [http-nio-8080-exec-2] ERROR com.jayacha.UsernameCheckingFilter - SQL Exception is thrown / Illegal operation on empty result set.
+2024-02-07- T -13:37:18.678 [http-nio-8080-exec-9] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:37:18.700 [http-nio-8080-exec-9] INFO  com.jayacha.CreateUser - New Account for Jayachandran P is created
+2024-02-07- T -13:37:23.861 [http-nio-8080-exec-2] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:37:23.863 [http-nio-8080-exec-2] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:37:23.883 [http-nio-8080-exec-2] INFO  com.jayacha.DeleteUser - User with the id - 1 has been deleted
+2024-02-07- T -13:37:23.884 [http-nio-8080-exec-2] ERROR com.jayacha.DeleteUser - An Exception is thrown - Cannot forward after response has been committed
+2024-02-07- T -13:38:59.501 [http-nio-8080-exec-4] INFO  com.jayacha.DbCommon - New Connection is created
+2024-02-07- T -13:38:59.505 [http-nio-8080-exec-4] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:38:59.539 [http-nio-8080-exec-4] INFO  com.jayacha.CreateUser - New Account for Jayachandran P is created
+2024-02-07- T -13:39:03.469 [http-nio-8080-exec-7] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:39:03.475 [http-nio-8080-exec-7] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -13:39:03.489 [http-nio-8080-exec-7] INFO  com.jayacha.DeleteUser - User with the id - 2 has been deleted
+2024-02-07- T -13:39:03.491 [http-nio-8080-exec-7] INFO  com.jayacha.Logout - User - Jayacha has logged out
+2024-02-07- T -15:06:25.498 [http-nio-8080-exec-5] INFO  com.jayacha.DbCommon - New Connection is created
+2024-02-07- T -15:06:25.501 [http-nio-8080-exec-5] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -15:06:25.532 [http-nio-8080-exec-5] INFO  com.jayacha.CreateUser - New Account for Jayachandran P is created
+2024-02-07- T -15:06:41.472 [http-nio-8080-exec-7] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -15:06:41.490 [http-nio-8080-exec-7] INFO  com.jayacha.CreateUser - New Account for Jayachandran P is created
+2024-02-07- T -15:06:52.749 [http-nio-8080-exec-10] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -15:06:52.756 [http-nio-8080-exec-10] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -15:06:52.774 [http-nio-8080-exec-10] INFO  com.jayacha.DeleteUser - User with the id - 2 has been deleted
+2024-02-07- T -15:06:52.776 [http-nio-8080-exec-10] INFO  com.jayacha.Logout - User - 23cy has logged out
+2024-02-07- T -15:22:03.234 [http-nio-8080-exec-5] INFO  com.jayacha.DbCommon - New Connection is created
+2024-02-07- T -15:22:03.237 [http-nio-8080-exec-5] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -15:22:03.272 [http-nio-8080-exec-5] INFO  com.jayacha.CreateUser - New Account for yeswanth is created
+2024-02-07- T -15:22:15.215 [http-nio-8080-exec-8] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -15:22:15.222 [http-nio-8080-exec-8] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -15:22:15.237 [http-nio-8080-exec-8] INFO  com.jayacha.DeleteUser - User with the id - 1 has been deleted
+2024-02-07- T -15:22:26.335 [http-nio-8080-exec-10] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -15:22:26.337 [http-nio-8080-exec-10] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -15:22:26.354 [http-nio-8080-exec-10] INFO  com.jayacha.DeleteUser - User with the id - 3 has been deleted
+2024-02-07- T -15:22:26.355 [http-nio-8080-exec-10] INFO  com.jayacha.Logout - User - 23cy has logged out

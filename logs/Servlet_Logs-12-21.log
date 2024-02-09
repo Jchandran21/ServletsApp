@@ -1,0 +1,103 @@
+2024-02-06- T -18:17:55.326 [http-nio-8080-exec-1] INFO  com.jayacha.DbCommon - New Connection is created
+2024-02-06- T -18:17:55.331 [http-nio-8080-exec-1] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-06- T -18:17:55.338 [http-nio-8080-exec-1] ERROR com.jayacha.UpdateUser - An Exception is thrown - There is no User with id - 2
+2024-02-06- T -18:18:02.498 [http-nio-8080-exec-5] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-06- T -18:18:02.506 [http-nio-8080-exec-5] ERROR com.jayacha.Validate - The User Jayacha has logged-in
+2024-02-06- T -18:18:02.506 [http-nio-8080-exec-5] INFO  com.jayacha.Validate - User - Jayacha has logged in
+2024-02-06- T -18:18:08.170 [http-nio-8080-exec-8] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-06- T -18:18:08.171 [http-nio-8080-exec-8] INFO  com.jayacha.UpdateUser - User with the id - 5 has been updated
+2024-02-06- T -18:19:22.161 [http-nio-8080-exec-3] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-06- T -18:19:22.176 [http-nio-8080-exec-3] INFO  com.jayacha.CreateUser - New Account for yeswanth is created
+2024-02-06- T -18:26:08.892 [http-nio-8080-exec-6] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-06- T -18:26:08.893 [http-nio-8080-exec-6] INFO  com.jayacha.UpdateUser - User with the id - 5 has been updated
+2024-02-06- T -18:28:12.182 [http-nio-8080-exec-2] INFO  com.jayacha.DbCommon - New Connection is created
+2024-02-06- T -18:28:12.185 [http-nio-8080-exec-2] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-06- T -18:28:12.193 [http-nio-8080-exec-2] INFO  com.jayacha.UpdateUser - User with the id - 5 has been updated
+2024-02-06- T -18:28:17.153 [http-nio-8080-exec-5] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-06- T -18:28:17.159 [http-nio-8080-exec-5] ERROR com.jayacha.Validate - The User Jayacha has logged-in
+2024-02-06- T -18:28:17.159 [http-nio-8080-exec-5] INFO  com.jayacha.Validate - User - Jayacha has logged in
+2024-02-06- T -18:28:23.264 [http-nio-8080-exec-8] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-06- T -18:28:23.266 [http-nio-8080-exec-8] INFO  com.jayacha.UpdateUser - User with the id - 5 has been updated
+2024-02-07- T -10:21:42.521 [http-nio-8080-exec-10] INFO  com.jayacha.DbCommon - New Connection is created
+2024-02-07- T -10:21:42.524 [http-nio-8080-exec-10] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -10:21:42.546 [http-nio-8080-exec-10] INFO  com.jayacha.CreateUser - New Account for Jayachandran P is created
+2024-02-07- T -10:21:45.239 [http-nio-8080-exec-2] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -10:21:53.889 [http-nio-8080-exec-5] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -10:21:53.890 [http-nio-8080-exec-5] ERROR com.jayacha.UpdateUser - An Exception is thrown - There is no User with id - 1
+2024-02-07- T -10:24:13.127 [http-nio-8080-exec-4] INFO  com.jayacha.DbCommon - New Connection is created
+2024-02-07- T -10:24:13.130 [http-nio-8080-exec-4] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -10:24:13.142 [http-nio-8080-exec-4] ERROR com.jayacha.Validate - The User Jayacha has logged-in
+2024-02-07- T -10:24:13.143 [http-nio-8080-exec-4] INFO  com.jayacha.Validate - User - Jayacha has logged in
+2024-02-07- T -10:24:14.559 [http-nio-8080-exec-6] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -10:38:32.986 [http-nio-8080-exec-1] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -10:38:32.989 [http-nio-8080-exec-1] ERROR com.jayacha.UpdateUser - An Exception is thrown - There is no User with id - 1
+2024-02-07- T -10:38:41.683 [http-nio-8080-exec-3] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -10:38:41.684 [http-nio-8080-exec-3] INFO  com.jayacha.UpdateUser - User with the id - 7 has been updated
+2024-02-07- T -10:39:18.849 [http-nio-8080-exec-5] INFO  com.jayacha.DbCommon - New Connection is created
+2024-02-07- T -10:39:18.852 [http-nio-8080-exec-5] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -10:39:18.867 [http-nio-8080-exec-5] ERROR com.jayacha.Validate - The User Jayacha has logged-in
+2024-02-07- T -10:39:18.867 [http-nio-8080-exec-5] INFO  com.jayacha.Validate - User - Jayacha has logged in
+2024-02-07- T -10:39:49.410 [http-nio-8080-exec-9] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -10:39:49.411 [http-nio-8080-exec-9] INFO  com.jayacha.UpdateUser - User with the id - 7 has been updated
+2024-02-07- T -10:40:02.249 [http-nio-8080-exec-3] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -10:40:02.266 [http-nio-8080-exec-3] INFO  com.jayacha.DeleteUser - User with the id - 7 has been deleted
+2024-02-07- T -10:40:39.503 [http-nio-8080-exec-1] INFO  com.jayacha.Logout - User - Jayacha has logged out
+2024-02-07- T -10:41:16.049 [http-nio-8080-exec-6] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -10:41:16.050 [http-nio-8080-exec-6] ERROR com.jayacha.Validate - The User Jayacha has logged-in
+2024-02-07- T -10:41:16.051 [http-nio-8080-exec-6] INFO  com.jayacha.Validate - User - Jayacha has logged in
+2024-02-07- T -11:05:16.730 [http-nio-8080-exec-4] INFO  com.jayacha.DbCommon - New Connection is created
+2024-02-07- T -11:05:16.733 [http-nio-8080-exec-4] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -11:05:16.746 [http-nio-8080-exec-4] INFO  com.jayacha.Validate - The User Jayacha has logged-in
+2024-02-07- T -11:05:16.746 [http-nio-8080-exec-4] INFO  com.jayacha.Validate - User - Jayacha has logged in
+2024-02-07- T -11:05:24.114 [http-nio-8080-exec-6] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -11:05:24.115 [http-nio-8080-exec-6] INFO  com.jayacha.Validate - The User Jayacha has logged-in
+2024-02-07- T -11:05:24.115 [http-nio-8080-exec-6] INFO  com.jayacha.Validate - User - Jayacha has logged in
+2024-02-07- T -11:07:17.152 [http-nio-8080-exec-9] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -11:07:17.168 [http-nio-8080-exec-9] INFO  com.jayacha.CreateUser - New Account for Jayachandran P is created
+2024-02-07- T -11:20:32.270 [http-nio-8080-exec-5] INFO  com.jayacha.DbCommon - New Connection is created
+2024-02-07- T -11:20:32.273 [http-nio-8080-exec-5] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -11:20:32.285 [http-nio-8080-exec-5] INFO  com.jayacha.Validate - The User Jayacha has logged-in
+2024-02-07- T -11:20:32.285 [http-nio-8080-exec-5] INFO  com.jayacha.Validate - User - Jayacha has logged in
+2024-02-07- T -11:54:46.114 [http-nio-8080-exec-3] INFO  com.jayacha.DbCommon - New Connection is created
+2024-02-07- T -11:54:46.117 [http-nio-8080-exec-3] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -11:54:46.129 [http-nio-8080-exec-3] INFO  com.jayacha.Validate - The User Jayacha has logged-in
+2024-02-07- T -11:54:46.129 [http-nio-8080-exec-3] INFO  com.jayacha.Validate - User - Jayacha has logged in
+2024-02-07- T -12:12:23.404 [http-nio-8080-exec-7] INFO  com.jayacha.DbCommon - New Connection is created
+2024-02-07- T -12:12:23.408 [http-nio-8080-exec-7] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -12:12:23.420 [http-nio-8080-exec-7] INFO  com.jayacha.Validate - The User Jayacha has logged-in
+2024-02-07- T -12:12:23.420 [http-nio-8080-exec-7] INFO  com.jayacha.Validate - User - Jayacha has logged in
+2024-02-07- T -12:12:42.358 [http-nio-8080-exec-9] INFO  com.jayacha.Logout - User - Jayacha has logged out
+2024-02-07- T -12:12:53.062 [http-nio-8080-exec-2] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -12:12:53.063 [http-nio-8080-exec-2] INFO  com.jayacha.Validate - The User 23cy has logged-in
+2024-02-07- T -12:12:53.064 [http-nio-8080-exec-2] INFO  com.jayacha.Validate - User - 23cy has logged in
+2024-02-07- T -12:14:24.174 [http-nio-8080-exec-5] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -12:14:24.194 [http-nio-8080-exec-5] INFO  com.jayacha.CreateUser - New Account for Jayachandran P is created
+2024-02-07- T -12:17:47.354 [http-nio-8080-exec-5] INFO  com.jayacha.DbCommon - New Connection is created
+2024-02-07- T -12:17:47.358 [http-nio-8080-exec-5] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -12:17:47.385 [http-nio-8080-exec-5] ERROR com.jayacha.CreateUser - SQL Exception is thrown - Duplicate entry '12EW' for key 'login_details.username'
+2024-02-07- T -12:17:47.424 [http-nio-8080-exec-5] ERROR com.jayacha.ValidationFilter - Exception is thrown - An exception occurred processing [Error.jsp] at line [13]
+
+10: </head>
+11: <body bgcolor = "red">
+12: 		<%
+13: 		 CustomException e = (CustomException)request.getAttribute("exception");
+14: 		%>   
+15: 		
+16: 		<h1><%
+
+
+Stacktrace:
+2024-02-07- T -12:18:59.549 [http-nio-8080-exec-8] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -12:18:59.569 [http-nio-8080-exec-8] INFO  com.jayacha.CreateUser - New Account for Jayachandran P is created
+2024-02-07- T -12:19:20.420 [http-nio-8080-exec-1] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -12:19:31.652 [http-nio-8080-exec-6] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -12:19:31.680 [http-nio-8080-exec-6] INFO  com.jayacha.DeleteUser - User with the id - 5 has been deleted
+2024-02-07- T -12:19:37.010 [http-nio-8080-exec-1] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -12:19:45.410 [http-nio-8080-exec-4] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -12:19:45.430 [http-nio-8080-exec-4] INFO  com.jayacha.DeleteUser - User with the id - 6 has been deleted
+2024-02-07- T -12:19:50.643 [http-nio-8080-exec-7] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -12:19:50.665 [http-nio-8080-exec-7] INFO  com.jayacha.DeleteUser - User with the id - 8 has been deleted
+2024-02-07- T -12:19:55.467 [http-nio-8080-exec-9] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -12:19:55.480 [http-nio-8080-exec-9] INFO  com.jayacha.DeleteUser - User with the id - 9 has been deleted
+2024-02-07- T -12:19:58.818 [http-nio-8080-exec-2] INFO  com.jayacha.DbCommon - Database is accessed
+2024-02-07- T -12:21:11.620 [http-nio-8080-exec-4] INFO  com.jayacha.DbCommon - New Connection is created
